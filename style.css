@@ -24,10 +24,11 @@ header{
        text-align: center;
        justify-content: center;
        border: 1px solid rgb(232, 187, 108);
+        padding: 16px;
+       box-sizing: border-box;
+       box-shadow: 0 2px 6px rgb(227, 203, 97);
+       width: calc(33.333% - 32px);
        margin: 16px;
-       gap: 16px;
-       padding: 16px;
-       flex: 1 1 25%;
         }
         img{
          width: 80px; 
